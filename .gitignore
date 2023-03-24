@@ -13,6 +13,6 @@ coverage.xml
 log.txt
 Pipfile.lock
 env3.*
-env
+.env
 docs_build
 venv
