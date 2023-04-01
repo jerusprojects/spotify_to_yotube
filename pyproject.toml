@@ -31,5 +31,9 @@ ignore = [
     "C901",  # too complex
 ]
 
+exclude = [
+    "alembic"
+]
+
 [tool.ruff.isort]
 known-third-party = ["fastapi", "pydantic", "starlette"]
